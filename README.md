@@ -1,6 +1,9 @@
 # dll-hijacking
 DLL Proxying
 
+Used in my blog post: https://b.ou.is/articles/2020-03/context-menu-persistance
+
+### Creation Script:
 ```ps
 PS C:\Users\rek7\Documents\dll-hijacking> python3 .\parse.py --help
 usage: parse.py [-h] -d DLL [-f HEADER_FILE] [-b DUMP_BIN]
