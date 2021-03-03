@@ -1,7 +1,7 @@
 # dll-hijacking
 DLL Proxying
 
-Used in my blog post: https://b.ou.is/articles/2020-03/context-menu-persistance
+Used in my blog post: https://blog.raphael.karger.is/articles/2020-03/context-menu-persistance
 
 ### Creation Script:
 ```ps
